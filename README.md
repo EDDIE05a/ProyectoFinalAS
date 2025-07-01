@@ -42,7 +42,7 @@ Algunas pantallas que encontrarás en el proyecto
 ![image](https://github.com/user-attachments/assets/de02b6e5-a4be-4e87-b7c0-bf936cf045ad)
 
 
-### 1. Clonar el repositorio
+### Clonar el repositorio
 
 ```bash
 git clone https://github.com/EDDIE05a/ProyectoFinalAS.git
